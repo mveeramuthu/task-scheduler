@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mveeramuthu</groupId>
-    <artifactId>task-scheduler2</artifactId>
+    <artifactId>task-scheduler</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>task-scheduler2</name>
+    <name>task-scheduler</name>
     <description>Task scheduler</description>
 
     <properties>

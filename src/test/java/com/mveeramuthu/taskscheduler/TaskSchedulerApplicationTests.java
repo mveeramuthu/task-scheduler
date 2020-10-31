@@ -1,10 +1,10 @@
-package com.mveeramuthu.taskscheduler2;
+package com.mveeramuthu.taskscheduler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TaskScheduler2ApplicationTests {
+class TaskSchedulerApplicationTests {
 
     @Test
     void contextLoads() {
