@@ -1,13 +1,13 @@
-package com.mveeramuthu.taskscheduler2;
+package com.mveeramuthu.taskscheduler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TaskScheduler2Application {
+public class TaskSchedulerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TaskScheduler2Application.class, args);
+        SpringApplication.run(TaskSchedulerApplication.class, args);
     }
 
 }
